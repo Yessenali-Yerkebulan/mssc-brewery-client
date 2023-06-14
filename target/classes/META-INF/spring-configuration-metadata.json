@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "sfg.brewery",
+      "type": "guru.springframework.msscbreweryclient.web.client.BreweryClient",
+      "sourceType": "guru.springframework.msscbreweryclient.web.client.BreweryClient"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
